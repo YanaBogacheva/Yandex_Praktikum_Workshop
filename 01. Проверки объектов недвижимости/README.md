@@ -19,6 +19,6 @@
 - визуализация данных
 - построение дашбордов
 
-**[Ссылка на проект](https://public.tableau.com/app/profile/yana.bogacheva/viz/_17130237001670/Dashboard1)
+**[Ссылка на проект](https://public.tableau.com/app/profile/yana.bogacheva/viz/_17130237001670/Dashboard1)**
 
 **Статус проекта:** завершен.
