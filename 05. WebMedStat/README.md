@@ -22,4 +22,5 @@ WEBmedSTAT - социально-значимое общественное дви
 
 **[Ссылка на дашборд](https://datalens.yandex/dzim2nfosmjg0)**
 
-**Статус проекта:** завершен.
+**Статус проекта:** завершен. По результатам работы над проектом заказчиком были выбраны лучшие работы, на основании которых был разработан [объединенный дашборд](https://datalens.yandex/skcpjsjlswuge?_theme=dark&tab=l7). Получено [благодарственное письмо](https://github.com/YanaBogacheva/Yandex_Praktikum_Workshop/blob/main/05.%20WebMedStat/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf) от заказчика.
+ 
