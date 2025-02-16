@@ -21,4 +21,6 @@
 - визуализация данных
 - построение дашбордов
 
+**[Ссылка на дашборд](https://public.tableau.com/views/_17130237001670/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 **Статус проекта:** завершен.
